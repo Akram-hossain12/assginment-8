@@ -60,8 +60,11 @@ const Home = (props) => {
                </div>
                    <h2>Totle Spand Time</h2>
                   <div className='study-time'>
-                      <h4>Study Time: 0 {cart.length}</h4>  
+                      <h4>Study Time:  {cart.length}</h4>  
                   </div> 
+                  <div className='study-time'>
+                      <h4>Brake Time:  {cart.length}</h4>  
+                  </div>
             </div>
         </div>
     );
