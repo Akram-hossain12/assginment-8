@@ -1,12 +1,17 @@
 .nav-container{
     display: grid;
     grid-template-columns: 3fr 2fr;
-    background-color: blanchedalmond;
+    background-color: #1C2B35;
 }
 .nav-text{
+    margin-left: 140px;
     margin-top: 5px;
     font-size: 30px;
     font-weight: 600;
+    color: aliceblue;
+}
+.ul-text{
+    margin-left: 40px;
 }
 .ul-text ul{
    display: flex;
@@ -17,5 +22,5 @@
     margin-left: 30px;
     list-style: none;
     font-size: 18px;
-    color: rgb(20, 9, 31)
+    color: rgb(232, 229, 236)
 }
