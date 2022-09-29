@@ -1,0 +1,66 @@
+[
+    {
+      "_id": "63351531d212b4de91f5c36b",
+      "index": 0,
+      "guid": "50b148ee-0e11-4777-a566-42747a2c6206",
+      "isActive": false,
+      "picture": "http://placehold.it/32x32",
+      "name": "Physic class"
+    },
+    {
+      "_id": "63351531ad6b3a2e8aec60ab",
+      "index": 1,
+      "guid": "b4a823df-4992-4883-8cbb-91255f2b6ec6",
+      "isActive": true,
+      "picture": "http://placehold.it/32x32",
+      "name": "Chemistry"
+    },
+    {
+      "_id": "63351531cb8b7f9a7997fb98",
+      "index": 2,
+      "guid": "2e73e554-9023-430a-b9b6-ce03cc8b81ec",
+      "isActive": false,
+      "picture": "http://placehold.it/32x32",
+      "name": "Super Math"
+    },
+    {
+      "_id": "6335153101b22cc2207e7c8a",
+      "index": 3,
+      "guid": "5bf1830a-1ca3-4846-8502-3fe07f998b8b",
+      "isActive": false,
+      "picture": "http://placehold.it/32x32",
+      "name": "Pratt Pittman"
+    },
+    {
+      "_id": "63351531620d7dc961743ccd",
+      "index": 4,
+      "guid": "3843960e-096f-4e97-b339-d6cba167238e",
+      "isActive": false,
+      "picture": "http://placehold.it/32x32",
+      "name": "Cross Lowe"
+    },
+    {
+      "_id": "63351531e1ac2600bb4d3645",
+      "index": 5,
+      "guid": "023664c0-c4ee-4ef8-89c2-42783b98aece",
+      "isActive": false,
+      "picture": "http://placehold.it/32x32",
+      "name": "Ballard Alexander"
+    },
+    {
+      "_id": "63351531077b561ec3fadfbd",
+      "index": 6,
+      "guid": "f2eda430-6af1-452e-9493-d1584c5c2a26",
+      "isActive": true,
+      "picture": "http://placehold.it/32x32",
+      "name": "Robyn Franks"
+    },
+    {
+      "_id": "633515311b35f1951e344980",
+      "index": 7,
+      "guid": "dc60c2a7-11ab-4a9c-8472-67a6829b860c",
+      "isActive": true,
+      "picture": "http://placehold.it/32x32",
+      "name": "Sheena Gross"
+    }
+  ]
