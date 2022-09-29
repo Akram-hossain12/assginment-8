@@ -34,8 +34,7 @@ const Home = (props) => {
                 
            </div>
            <div className='class-Ditails'>
-               <h2> spant time</h2>
-               <p>selected item:{cart.length}</p>
+               <h1>selected item:{cart.length}</h1>
                <img src='./photo/images (1).jpg' ></img>
                
                 <div className='parsonal-ditail'>
@@ -59,6 +58,10 @@ const Home = (props) => {
                     <li>15m</li>
                   </ul>
                </div>
+                   <h2>Totle Spand Time</h2>
+                  <div className='study-time'>
+                      <h4>Study Time: 0 {cart.length}</h4>  
+                  </div> 
             </div>
         </div>
     );
