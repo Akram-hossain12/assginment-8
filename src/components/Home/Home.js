@@ -1,7 +1,7 @@
 import './Home.css';
 import React, { useEffect, useState } from 'react';
-import Class from '../../class/Subject';
-import Subject from '../../class/Subject';
+import Class from '../class/Subject';
+import Subject from '../class/Subject';
 
 const Home = (props) => {
 

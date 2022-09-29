@@ -8,9 +8,9 @@ const Subject = (props) => {
            
            <img src={picture} ></img>
            <div className='course'>
-             <h3>Course title:{name}</h3>
+             <h3>Activity : {name}</h3>
             <p>Ditails:  {discription}</p>
-            <p>Time: {time}:00h</p>
+            <p>Time Spant: {time}:00h</p>
             </div>
         </div>
     );

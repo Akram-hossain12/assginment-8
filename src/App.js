@@ -6,7 +6,9 @@ import Nav from './components/nav/Nav';
 function App() {
   return (
     <div className="App">
+      
        <Nav></Nav>
+       <h2> Select todays Activity</h2>
        <Home></Home>
     </div>
   );
