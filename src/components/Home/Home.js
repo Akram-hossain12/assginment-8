@@ -36,8 +36,30 @@ const Home = (props) => {
            <div className='class-Ditails'>
                <h2> spant time</h2>
                <p>selected item:{cart.length}</p>
+               <img src='./photo/images (1).jpg' ></img>
                
-           </div>
+                <div className='parsonal-ditail'>
+                  <div>
+                      <h2>75 <span>kg</span></h2>
+                  </div>
+                  <div>
+                      <h2>5.8 <span>ft</span></h2>   
+                  </div>
+                  <div>
+                      <h2>24 <span>yr</span></h2>  
+                  </div> 
+               </div>
+
+               <h2>Take a Brake</h2>
+               <div className='take-brak'>
+                  <ul>
+                    <li>2m</li>
+                    <li>5m</li>
+                    <li>10m</li>
+                    <li>15m</li>
+                  </ul>
+               </div>
+            </div>
         </div>
     );
 };

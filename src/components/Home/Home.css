@@ -1,15 +1,55 @@
 .class-container{
     display: grid;
-    grid-template-columns: 7fr 2fr;
+    grid-template-columns: 7fr 4fr;
 }
 .class-section{
     display:grid;
     grid-template-columns: repeat(3,1fr);
     gap: 45px;
+    margin-right: 20px;
 }
 .class-Ditails{
-background-color: rgb(133, 136, 135);
+background-color: rgb(255, 255, 255);
 }
 .class-Ditails p {
     text-align: center;
+}
+.class-Ditails img{
+    width: 25%;
+    text-align: center;
+
+}
+.parsonal-ditail{
+    display: flex;
+    background-color :rgb(174, 174, 176);
+    margin: 10px 10px;
+    border-radius: 10px;
+  
+}
+.parsonal-ditail h2{
+    font-size: 20px;
+}
+.parsonal-ditail h2 span{
+    color:#3a3a3a ;
+}
+.take-brak{
+    text-align: center;
+    background-color: rgb(174, 174, 176);
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+.take-brak ul{
+    display: flex;
+    margin-left: 5px;
+}
+.take-brak ul li{
+    list-style: none;
+    margin-left: 5px;
+    font-weight: 600;
+    background-color: aliceblue;
+    padding: 10px 10px;
+    border-radius: 50%;
+    font-size: 20px;
 }
