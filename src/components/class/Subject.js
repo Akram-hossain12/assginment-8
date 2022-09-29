@@ -2,7 +2,10 @@ import React from 'react';
 import './class.css'
 
 const Subject = (props) => {
+     
    const {name,picture,time,discription} = props.home;
+
+   
     return (
         <div className='subject-text'>
            
@@ -14,7 +17,7 @@ const Subject = (props) => {
 
            
             </div>
-            <button className='btn-cart'>
+            <button onClick={()=>props.AddtoList(props.home)} className='btn-cart'>
                 <p>Add to Done list</p>
             </button>
         </div>
