@@ -36,6 +36,7 @@ const Home = (props) => {
            <div className='class-Ditails'>
                <h2> spant time</h2>
                <p>selected item:{cart.length}</p>
+               
            </div>
         </div>
     );
