@@ -2,7 +2,7 @@
     margin-top: 30px;
     margin-left: 50px;
     width: 300px;
-    height: 400px;
+    height: 460px;
     border: 1px solid darkolivegreen;
     border-radius: 20px 20px;
 }
@@ -13,4 +13,21 @@
     max-width: 100%;
     border-radius: 20px 20px 0px 0;
    
+}
+.btn-cart{
+    width: 100%;
+    border-radius: 0 0 20px 20px;
+    border: 0;
+    background-color: #1C2B35;;
+}
+.btn-cart p
+{
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: 500;
+}
+.btn-cart :hover{
+    padding: 4px;
+    
+    transition: 0.4s;
 }

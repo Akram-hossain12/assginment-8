@@ -11,7 +11,12 @@ const Subject = (props) => {
              <h3>Activity : {name}</h3>
             <p>Ditails:  {discription}</p>
             <p>Time Spant: {time}:00h</p>
+
+           
             </div>
+            <button className='btn-cart'>
+                <p>Add to Done list</p>
+            </button>
         </div>
     );
 };
